@@ -89361,3 +89361,7 @@
 0.0.0.0    zzztube.com
 0.0.0.0    zzztube.tv
 0.0.0.0    r34.app
+0.0.0.0    https://r34.app
+0.0.0.0    https://www.r34.app
+0.0.0.0    https://store.steampowered.com/
+0.0.0.0    store.steampowered.com/
