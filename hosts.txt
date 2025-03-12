@@ -4112,6 +4112,7 @@
 0.0.0.0    app.pendo.io
 0.0.0.0    app.pr0gramm.com
 0.0.0.0    app.pubserver.adhood.com
+0.0.0.0    app.rule34.dev
 0.0.0.0    app.scanscout.com
 0.0.0.0    app.seyou.vip
 0.0.0.0    app.suicidegirls.com
@@ -13395,6 +13396,7 @@
 0.0.0.0    e.xxx-cdn.com
 0.0.0.0    e1.static.hoptopboy.com
 0.0.0.0    e621.net
+0.0.0.0    e6ai.net
 0.0.0.0    e705.net
 0.0.0.0    e926.net
 0.0.0.0    ea-comic.blogspot.com
@@ -21808,6 +21810,7 @@
 0.0.0.0    https://ainsfwtools.com
 0.0.0.0    https://animexxx.com.es
 0.0.0.0    https://app-rule34-dev.zpoxy.org
+0.0.0.0    https://app.rule34.dev
 0.0.0.0    https://aroused.ai
 0.0.0.0    https://beyondaiporn.com
 0.0.0.0    https://burnbutt.com
@@ -21828,6 +21831,8 @@
 0.0.0.0    https://dialog-mebel.ru
 0.0.0.0    https://doujinrepublic.com
 0.0.0.0    https://dswaifus.com
+0.0.0.0    https://e6ai.net
+0.0.0.0    https://e926.net
 0.0.0.0    https://fap-nation.org
 0.0.0.0    https://femdommanga.com
 0.0.0.0    https://freefutanarihentai.com
@@ -21883,6 +21888,7 @@
 0.0.0.0    https://r34anim.com
 0.0.0.0    https://reloadhb.com
 0.0.0.0    https://rule34.app
+0.0.0.0    https://rule34.dev
 0.0.0.0    https://rule34.lol
 0.0.0.0    https://rule34.porn
 0.0.0.0    https://rule34ai-art.zproxy.org
@@ -21906,6 +21912,7 @@
 0.0.0.0    https://www.ainsfwtools.com
 0.0.0.0    https://www.animexxx.com.es
 0.0.0.0    https://www.app-rule34-dev.zpoxy.org
+0.0.0.0    https://www.app.rule34.dev
 0.0.0.0    https://www.aroused.ai
 0.0.0.0    https://www.beyondaiporn.com
 0.0.0.0    https://www.burnbutt.com
@@ -21926,6 +21933,8 @@
 0.0.0.0    https://www.dialog-mebel.ru
 0.0.0.0    https://www.doujinrepublic.com
 0.0.0.0    https://www.dswaifus.com
+0.0.0.0    https://www.e6ai.net
+0.0.0.0    https://www.e926.net
 0.0.0.0    https://www.fap-nation.org
 0.0.0.0    https://www.femdommanga.com
 0.0.0.0    https://www.freefutanarihentai.com
@@ -21981,6 +21990,7 @@
 0.0.0.0    https://www.r34anim.com
 0.0.0.0    https://www.reloadhb.com
 0.0.0.0    https://www.rule34.app
+0.0.0.0    https://www.rule34.dev
 0.0.0.0    https://www.rule34.lol
 0.0.0.0    https://www.rule34.porn
 0.0.0.0    https://www.rule34ai-art.zproxy.org
@@ -41280,6 +41290,7 @@
 0.0.0.0    rule-34.xxx
 0.0.0.0    rule34.app
 0.0.0.0    rule34.art
+0.0.0.0    rule34.dev
 0.0.0.0    rule34.lol
 0.0.0.0    rule34.paheal.net
 0.0.0.0    rule34.porn
@@ -61709,7 +61720,9 @@
 0.0.0.0    www.e.company-target.com
 0.0.0.0    www.e.kde.cz
 0.0.0.0    www.e621.net
+0.0.0.0    www.e6ai.net
 0.0.0.0    www.e705.net
+0.0.0.0    www.e926.net
 0.0.0.0    www.ea-comic.blogspot.com
 0.0.0.0    www.eaccnj.org
 0.0.0.0    www.eachporn.com
